@@ -112,3 +112,13 @@ This task demonstrated the importance of data visualization tools in interpretin
 * **Tableau** offers clean visuals and fast interactive layouts
 
 By completing this task in all three tools, we explored the versatility of modern dashboarding technologies and enhanced the presentation of data insights.
+
+## Output:
+
+<img width="1351" height="419" alt="Image" src="https://github.com/user-attachments/assets/035367dc-9d19-4ee3-ae0f-044bb42bea1b" />
+
+
+<img width="1325" height="379" alt="Image" src="https://github.com/user-attachments/assets/e42b3046-adb2-4a04-bc00-708167126888" />
+
+
+<img width="1320" height="324" alt="Image" src="https://github.com/user-attachments/assets/db3dd9ee-394d-4b0e-850e-5c0f51ddb86c" />
